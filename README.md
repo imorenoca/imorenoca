@@ -1,4 +1,4 @@
-I’m currently learning laravel
+I’m currently learning Laravel
 
 
 <!---
