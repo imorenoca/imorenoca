@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imorenoca
 - 👀 I’m interested in backend developer
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning Angular and Springboot
 
 
 <!---
