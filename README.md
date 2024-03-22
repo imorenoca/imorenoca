@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @imorenoca
 - 👀 I’m interested in backend developer
-- 🌱 I’m currently learning Java and JPA and php and Laravel
+- 🌱 I’m currently learning:
+-    Java and JPA
+-    php and Laravel
 
 
 <!---
