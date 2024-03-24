@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning:
   -    Java and JPA
   -    php and Laravel
+  -    MySQL y MariaDB
 
 
 <!---
