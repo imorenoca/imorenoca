@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @imorenoca
-- 👀 I’m interested in backend developer
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning:
-  -    Java and JPA
-  -    php and Laravel
-  -    MySQL y MariaDB
+  -    R
+  -    Python
 
 
 <!---
