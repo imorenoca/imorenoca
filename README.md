@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning:
   -    R
   -    Python
+  -    Java
 - I´m working with:
-  - php
+  - Python
+  - Java
 
 
 <!---
