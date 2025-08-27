@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:
   -    R
   -    Python
-  -    Java
+  -    Spring boot
 - I´m working with:
   - Python
   - Java
