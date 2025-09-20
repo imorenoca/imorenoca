@@ -7,6 +7,8 @@
 - I´m working with:
   - Python
   - Java
+  - php
+  - SQL
 
 
 <!---
